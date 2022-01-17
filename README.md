@@ -1,4 +1,4 @@
-# Myapp
+# MyApp
 
-test
 This is my app
+Version 2
